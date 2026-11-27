@@ -1,1 +1,1 @@
-export const week7CiProbe: number = "intentional TypeScript error";
+export const week7CiProbe: number = 0;
